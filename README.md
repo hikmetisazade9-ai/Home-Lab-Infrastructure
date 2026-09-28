@@ -4,3 +4,4 @@ Hyper-V
 - Windows Server və Windows 10 virtual maşınlarının sıfırdan quraşdırılması və idarə edilməsini təmin etmişəm.
 - Virtual maşınların resurslarının (RAM, Prosessordan istifadə və Virtual Disk parametrləri) optimal tənzimlənməsi yerinə yetirilib.
 - Daxili izolyasiya olunmuş şəbəkə və internetə çıxış üçün Virtual Switch və Şəbəkə Adaptorlarının (Network Adapter) konfiqurasiyası olunub.
+Active Directory, Domain qurulumu
