@@ -1,4 +1,4 @@
-# Home-Lab-Infrastructure. Sadəcə daha önce ettiyim bəzi praktiki işlərin rəsimlərini əlavə ettim. Bütün praktiki rəsimlər burada deyil.
+# Home-Lab-Infrastructure. Nümunə üçün daha önce ettiyim bəzi praktiki işlərin rəsimlərin çox azını əlavə ettim. Bütün praktiki rəsimlər burada deyil.
 Hyper-V, Windows Server 2016 / 2019 / 2022 & Active Directory, Network Services (DNS and DHCP), Routing and Remote Access (RRAS)
 <img width="1600" height="1200" alt="WhatsApp Image 2026-09-28 at 20 54 22 (2)" src="https://github.com/user-attachments/assets/204a74fd-747c-4ed2-9ae7-ead6acf9fae1" />
 <img width="1600" height="1200" alt="WhatsApp Image 2026-09-28 at 20 54 22 (1)" src="https://github.com/user-attachments/assets/c21a52da-ba70-46af-a864-83c57f6c69f3" />
